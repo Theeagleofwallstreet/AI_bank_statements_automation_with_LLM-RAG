@@ -103,6 +103,3 @@ streamlit run apps.py
 * Multi-bank support
 * Dashboard analytics
 * API integration
-
-
-If you want it **even shorter (startup-style)** or **more technical (ML-focused)**, tell me which direction and I’ll refine it in one pass.
